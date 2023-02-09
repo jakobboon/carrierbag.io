@@ -1,0 +1,38 @@
+.page-title{
+    font-size:40px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background: white;
+}
+* {
+    box-sizing: border-box;
+}
+meta {
+    display: none;
+}
+.stickers {
+    position:re
+}
+.sticker-name {
+    font-size:15px;
+    text-align: relative;
+}
+.sticker-container{
+    width: 100px;
+    margin-left: 10%;
+    position: relative;
+    display:inline-block;
+    vertical-align: bottom;
+}
+.sticker-image{
+    width:150%;
+}
